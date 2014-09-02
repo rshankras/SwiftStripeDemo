@@ -1,0 +1,13 @@
+PODS:
+  - PaymentKit (1.0.5)
+  - Stripe (1.1.4):
+    - PaymentKit (~> 1.0.4)
+
+DEPENDENCIES:
+  - Stripe
+
+SPEC CHECKSUMS:
+  PaymentKit: 14b54835f57ae9e2bf5628140fcd67001740cba2
+  Stripe: a0ed1c0675a3c36f6e8d575820cfec1dc9335f53
+
+COCOAPODS: 0.33.1

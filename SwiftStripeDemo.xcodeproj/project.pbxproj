@@ -378,7 +378,7 @@
 				INFOPLIST_FILE = SwiftStripeDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/ravishankar/Downloads/Projects/SwiftStripeDemo/Pods/Stripe/Stripe/STPView.m;
+				SWIFT_OBJC_BRIDGING_HEADER = /Users/ravishankar/Desktop/iOS/SwiftStripeDemo/Pods/Stripe/Stripe/STPView.m;
 			};
 			name = Debug;
 		};
@@ -391,7 +391,7 @@
 				INFOPLIST_FILE = SwiftStripeDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/ravishankar/Downloads/Projects/SwiftStripeDemo/Pods/Stripe/Stripe/STPView.m;
+				SWIFT_OBJC_BRIDGING_HEADER = /Users/ravishankar/Desktop/iOS/SwiftStripeDemo/Pods/Stripe/Stripe/STPView.m;
 			};
 			name = Release;
 		};
